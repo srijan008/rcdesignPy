@@ -1,1 +1,1 @@
-{"name":"Local: flanged_beam_analysis","url":"c:\\Users\\srija\\Desktop\\study\\project\\rcdesignPy\\flanged_beam_analysis.py","tests":[{"id":1726951558749,"input":"850\n100\n250\n600\n520\n6\n28\n20\n250","output":""},{"id":1727522043204,"input":"850\n100\n250\n600\n520\n8\n28\n20\n250","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\srija\\Desktop\\study\\project\\rcdesignPy\\flanged_beam_analysis.py","group":"local","local":true}
+
